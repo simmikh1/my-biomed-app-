@@ -1,9 +1,9 @@
 # 📦 Streamlit App Starter Kit 
 ```
-⬆️ (Replace above with your app's name)
+⬆️ my-biomed-app)
 ```
 
-Description of the app ...
+BioMarker-Check for Ageing
 
 ## Demo App
 
